@@ -62,3 +62,7 @@ while(len(aunvisited)):
 # 	print("start vertex is {}".format(start_vertex))
 
 print(acost)
+
+
+# Doubt: 
+# 	visited.append(unvisited.pop(vertex)) is failing at line 48...why
